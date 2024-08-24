@@ -1,27 +1,7 @@
-# OCR-PDF-Action
+# OCR-MY-PDF-Action
 
-<p align="center">
-  <img height="400" src="https://capsule-render.vercel.app/api?type=waving&color=03a9f4&height=300&section=header&text=OCR%20PDF%20Action&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Created%20by%20github.com/MarketingPipeline%20&descAlignY=51&descAlign=50" />
-</p>
 <div align="center">
-A GitHub action to turn scanned PDF's into searchable documents
-  
-  
-   <br>
-  <small> <b><i>Show your support!</i> </b></small>
-  <br>
-   <a href="https://github.com/MarketingPipeline/OCR-PDF-Action">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/OCR-PDF-Action.svg?style=social&label=Star">
-  </a>
-  <a href="https://github.com/MarketingPipeline/OCR-PDF-Action/fork">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/OCR-PDF-Action.svg?style=social&label=Fork">
-  </a>
-   </p>  
- </div>
-
-
-
-	
+A turn scanned PDF's from URL into searchable documents
 
 ## Example and usage
 
@@ -102,16 +82,9 @@ Example [workflow file](.github/workflows/example_workflow.yaml)
 
 </details>
 
-
-## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/OCR-PDF-Action)
-
-Want to imrpove this action? Create a pull request with described in detail with your changes! If approved you will be added to the list of contributors of this awesome project!
-
 See also the list of
 [contributors](https://github.com/MarketingPipeline/OCR-PDF-Action/graphs/contributors) who
 participate in this project.
-
-## License ![GitHub](https://img.shields.io/github/license/MarketingPipeline/OCR-PDF-Action)
 
 This project is licensed under the MIT License - see the
 [LICENSE.md](https://github.com/MarketingPipeline/OCR-PDF-Action/blob/main/LICENSE) file for
