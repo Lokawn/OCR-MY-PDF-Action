@@ -18,7 +18,3 @@ runs:
   args:
     - ${{ inputs.input_file }}
     - ${{ inputs.output_file }}
-
-branding:
-  icon: 'activity'
-  color: 'white'
